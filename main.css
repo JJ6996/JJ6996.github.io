@@ -1,0 +1,83 @@
+
+
+
+
+p{
+text;color:black;
+font-size: 30px;
+}p
+
+
+
+
+#one {
+height: 150px;
+width: 150px;
+background-color: green;
+display:none;
+position:relative;
+}
+
+#two {
+height: 150px;
+width: 150px;
+background-color: pink;
+display:inline-block;
+position:relative;
+z-index: 1;
+}
+
+#three {
+height: 150px;
+width: 150px;
+background-color: black;
+display:inline-block;
+position:relative;
+z-index:2;
+}
+#background-h {
+height: 2048px;
+}
+
+
+  
+
+.box{
+ 			display:inline-block;
+ 			width: 100px;
+ 			height:100px;
+      margin-right: 20px;
+ 		}
+
+.image{
+border:5px solid black;
+padding:30px;
+
+}
+
+
+  
+
+
+
+a:link{
+color:#0000ff;
+}
+
+a:visited{
+color:#00ff00;
+}
+
+a:hover{
+color:#ffff00;
+}
+
+a:active{
+color:#ff0000;
+}
+
+
+
+
+
+
